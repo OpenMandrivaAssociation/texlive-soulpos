@@ -1,6 +1,6 @@
 Name:		texlive-soulpos
 Version:	60772
-Release:	1
+Release:	2
 Summary:	A fancy means of underlining
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soulpos
