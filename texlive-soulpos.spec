@@ -3,7 +3,7 @@ Version:	60772
 Release:	2
 Summary:	A fancy means of underlining
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soulpos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/soulpos
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soulpos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soulpos.doc.r%{version}.tar.xz
